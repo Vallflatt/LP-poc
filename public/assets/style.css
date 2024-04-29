@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
+body, h1, h2, h3
+ {
+    font-family: "Rubik", sans-serif;
+    font-weight: 200;
+    color: #3c5050;
+ }
